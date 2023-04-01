@@ -1714,7 +1714,7 @@ Partial Class Main
         '
         'btnApplyConvSettings
         '
-        Me.btnApplyConvSettings.Location = New System.Drawing.Point(894, 32)
+        Me.btnApplyConvSettings.Location = New System.Drawing.Point(894, 31)
         Me.btnApplyConvSettings.Name = "btnApplyConvSettings"
         Me.btnApplyConvSettings.Size = New System.Drawing.Size(140, 22)
         Me.btnApplyConvSettings.TabIndex = 357
@@ -1723,9 +1723,9 @@ Partial Class Main
         '
         'btnCheckConnection
         '
-        Me.btnCheckConnection.Location = New System.Drawing.Point(1040, 4)
+        Me.btnCheckConnection.Location = New System.Drawing.Point(894, 5)
         Me.btnCheckConnection.Name = "btnCheckConnection"
-        Me.btnCheckConnection.Size = New System.Drawing.Size(111, 22)
+        Me.btnCheckConnection.Size = New System.Drawing.Size(140, 22)
         Me.btnCheckConnection.TabIndex = 356
         Me.btnCheckConnection.Text = "Check Connection"
         Me.btnCheckConnection.UseVisualStyleBackColor = True
@@ -1783,7 +1783,7 @@ Partial Class Main
         '
         'btnRecalculate
         '
-        Me.btnRecalculate.Location = New System.Drawing.Point(894, 4)
+        Me.btnRecalculate.Location = New System.Drawing.Point(894, 57)
         Me.btnRecalculate.Name = "btnRecalculate"
         Me.btnRecalculate.Size = New System.Drawing.Size(140, 22)
         Me.btnRecalculate.TabIndex = 349
